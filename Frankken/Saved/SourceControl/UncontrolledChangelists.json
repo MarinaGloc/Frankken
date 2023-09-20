@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Level1/Level1_Map.umap",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/BP_GameMode.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Character/Franky.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Menu/MainMenu.umap",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Intro/Intro.umap",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/BP_GM.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Character/BP_Franky.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/UI/KillCountWG.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Level2/Level2.umap",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Level3/Level3.umap",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Endings/End.umap",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Endings/Ending1.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Endings/Ending2.uasset",
+				"C:/Users/Marina/Documents/Unreal Projects/Frankken/Content/Maps/Endings/Ending3.uasset"
+			]
+		}
+	]
+}
